@@ -1,0 +1,38 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+project_entries:
+  - title: Unannounced Sim Title
+    url: unannounced-sim-title
+    desc: Project concept I headed at Nimble Giant Entertainment.
+    
+  - title: Star Trek Infinite
+    url: star-trek-infinite
+    desc: 4X Strategy title, collaborating with Paradox and Paramount.
+
+  - title: Cancelled RPG
+    url: rpg
+    desc: Worked with a small team on a project.
+
+old_project_entries:
+  - title: Fighting Game Prototype
+    url: fighting-game-prototype
+    desc: Modular fighting game system made in Godot for supporting unique characters. 
+    highlight: WIP
+    
+  - title: Eldritch Horror TTRPG
+    url: ttrpg
+    desc: A tabletop role-playing game that I have been working on personally.
+    highlight: WIP
+
+footer_entries:
+  - title: github
+    url: https://github.com/eyeandhand
+
+  - title: feed
+    url: feed.xml
+

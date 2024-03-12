@@ -1,0 +1,47 @@
+title: Eye And Hand
+author: Ulrich Eoforhild
+url: https://eyeandhand.github.io # root address of the site
+description: > # description of the site (multiple lines allowed)
+  Hello, I am Ulrich Eoforhild, a game designer with five years of professional experience. Welcome to my personal website.
+  
+  You may find my previous personal and professional projects below.
+  
+  If you would like to see my resume, please send a request via e-mail.
+
+permalink: /:slug
+
+favicon: "./logo.png" # relative path to site's favicon
+
+#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance_toggle: false # if appearance can be switched by user
+  back_home_text: "Home" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description
+  show_navbar: false # show horizontal navbar
+  show_footer: true # show footer links in home page,add in _data/home.yml
+  show_copyright: false # show copyright notice in footer
+  # following keys are using to create home layout
+  show_projects: true # show projects as cards, add in _data/home.yml
+  show_blog: false # show blog posts added in _posts
+  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
+  show_reading_time: false # show number of words and reading time in the blog posts
+  show_tags: true # show tags in a blog posts
+  # options for "home" page
+  home:
+    title_projects: Portfolio
+    title_misc_list: Details
+    title_blog: Blog
+    title_old_projects: Personal Projects
+
+highlighter: rouge
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
