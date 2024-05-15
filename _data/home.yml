@@ -24,10 +24,14 @@ old_project_entries:
     desc: Modular fighting game system made in Godot for supporting unique characters. 
     highlight: WIP
     
+  - title: Thief Level Campaign
+    url: thief-level-campaign
+    desc: A custom level campaign for Thief The Dark Project. 
+    highlight: WIP
+
   - title: Eldritch Horror TTRPG
     url: ttrpg
     desc: A tabletop role-playing game that I have been working on personally.
-    highlight: WIP
 
 footer_entries:
   - title: github
