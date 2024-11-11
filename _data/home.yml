@@ -6,6 +6,10 @@ navbar_entries:
     url: blog
 
 project_entries:
+  - title: Action Roguelike Title
+    url: action-roguelike-title
+    desc: In-development action title with time-based mechanics.
+  
   - title: Unannounced Sim Title
     url: unannounced-sim-title
     desc: Project concept I headed at Nimble Giant Entertainment.
