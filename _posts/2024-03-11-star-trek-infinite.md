@@ -20,6 +20,8 @@ The first system I took ownership of during the project. In an effort to simplif
 ## Planetary Decisions
 ![Planetary Decisions](/assets/images/star-trek-infinite-pd.png)
 A system under my sole ownership, Planetary Decisions allow for the optimization of individual planets in your empire, at the cost of resources. The primary goal was the tie them with the Planetary Designations system, adding more allowing the player to make more specialized planets and simultaneously reducing the number of options visible at the same time to not overwhelm the player. Planetary Decisions were designed to be highly impactful, but situational options for the player that enhanced the individual planet identities.
+
+Much of the balancing was structured around forcing the player to make direct trade-off choices for their planet's economy, and making them commit with notable resource costs. Players choosing carelessly found themselves with fractured or highly fragile economies, while players making careful and well-timed choices would be rewarded.
 ## Tooltips
 ![Tooltips](/assets/images/star-trek-infinite-tooltip.jpg)
 Every (English-language) tooltip in Star Trek Infinite had to, at one point or another, go through me. Editing, or at times rewriting, the tooltips for the sake of mechanical clarity and ease of understanding to lighten the mental burden of 4X titles and their monstrous amounts of player facing text. Each tooltip should be comprehensible by only reading a few words. Or even no words at all. To achieve this, establishing of a strict colour language was used, as well as heavy use of in-text icons.
