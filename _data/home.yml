@@ -23,6 +23,11 @@ project_entries:
     desc: Worked with a small team on a project.
 
 old_project_entries:
+  - title: Multiplayer FPS
+    url: multiplayer-fps
+    desc: A multiplayer FPS with a focus on expressive combat and advanced level traversal.
+    highlight: NEW
+
   - title: Fighting Game Prototype
     url: fighting-game-prototype
     desc: Modular fighting game system made in Godot for supporting unique characters. 
@@ -30,8 +35,7 @@ old_project_entries:
     
   - title: Thief Level Campaign
     url: thief-level-campaign
-    desc: A custom level campaign for Thief The Dark Project. 
-    highlight: WIP
+    desc: A custom level campaign for Thief The Dark Project.
 
   - title: Eldritch Horror TTRPG
     url: ttrpg
