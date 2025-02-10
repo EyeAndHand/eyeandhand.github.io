@@ -2,7 +2,7 @@
 layout: post
 ---
 # Mutliplayer FPS Project
-![Image](/assets/images/multiplayer-fps.png)
+![Image](/assets/images/multiplayer-fps-image.png)
 ## Details
 **Project Status:** Work In Progress
 
