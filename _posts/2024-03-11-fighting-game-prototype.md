@@ -12,6 +12,8 @@ layout: post
 
 **Primary Role:** Programmer
 
+**Team Size:** 1
+
 ---
 An experiment of mine to build a modular and versatile system to create 2D fighting game characters with virtually any kind of associated mechanics systems. Made in Godot, primarily for its extremely easy plug and play multiplayer networking and its object-oriented focus. Most inspiration for the project comes from M.U.G.E.N. as well as my interest in the Capcom fighting game for JoJo's Bizarre Adventure from the late 90s.
 

@@ -12,6 +12,8 @@ layout: post
 
 **Primary Role:** Level Designer
 
+**Team Size:** 1
+
 ---
 ![Thief Level Editor](/assets/images/thief-tdp-dromed.png)
 A personal project to create levels for Thief: The Dark Project, an immersive sim and first-person stealth title from 1998. Primarily as an exercise in level design, the levels focus on testing veteran players and utilizing the full breadth of Thief's mechanics. Currently an early work in progress.

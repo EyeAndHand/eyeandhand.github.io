@@ -12,6 +12,8 @@ layout: post
 
 **Primary Role:** Programmer / Combat Designer / Artist
 
+**Team Size:** 6
+
 ---
 Currently in-development action title with dynamically generated level content.
 

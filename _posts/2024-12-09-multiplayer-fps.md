@@ -12,8 +12,10 @@ layout: post
 
 **Primary Role:** Programmer / Game Designer
 
+**Team Size:** 1
+
 ---
-A multiplayer First Person Shooter title currently in development focused on PvE and PvP combat, acrobatic level traversal, and hybrid melee/ranged combat. The project is inspired by Thief: The Dark Project (1999) and its compelling level traversal, as well as the un-official multiplayer patch made for its sequel.
+A multiplayer First Person Shooter title currently in development focused on PvE and PvP combat, acrobatic level traversal, and hybrid melee/ranged combat. The project is inspired by Thief: The Dark Project (1998) and its compelling level traversal, as well as the un-official multiplayer patch made for its sequel.
 
 Please note that all images are in no way representative of the end product.
 
