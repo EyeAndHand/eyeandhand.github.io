@@ -10,7 +10,7 @@ layout: post
 
 **Engine:** Clausewitz
 
-**Primary Role:** Game Designer
+**Primary Role:** Gameplay Designer
 
 **Team Size:** 70+
 
@@ -30,7 +30,7 @@ Every tooltip in Star Trek Infinite had to, at one point or another, go through 
 
 4X strategy titles have a consistent issue that I wanted to address: Players eventually will fatigue from reading text, and will start to ignore what may be incredibly important informaton.
 
-My solution, create a strict colour and icon language that allowed players to instantly comprehend what any actuon taken (event choice, building, unit action, etc.) would do with effectively no reading required. The methodology was so simple it bordered on the absurd, I would feed random tooltips into a script that would display them heavily blurred so that all was immediately visible was the colours, general shape of the text, and the vague shape and colour of icons. Despite how stupid it felt to squint at blurry tooltips, it allowed me to create a strict colour language and structure for tooltips that was shared universally in the title. By using the physical shape and form of the text to denote effects (such as over-time effects, versus immediate effects, versus effects that give X resource per Y worker) playtesters were able to understand the effects of their actions effectively without reading any text. This likely would not have been nearly as successful without the wonderfully distinct icons from the UI/UX team.
+My solution, create a strict colour and icon language that allowed players to instantly comprehend what any action taken (event choice, building, unit action, etc.) would do with effectively no reading required. The methodology was so simple it bordered on the absurd, I would feed random tooltips into a script that would display them heavily blurred so all that was immediately visible was the colours, general shape of the text, and the vague shape and colour of icons. Despite how stupid it felt to squint at blurry tooltips, it allowed me to create a strict colour language and structure for tooltips that was shared universally in the title. By using the physical shape and form of the text to denote effects (such as over-time effects, versus immediate effects, versus effects that give X resource per Y worker) playtesters were able to understand the effects of their actions effectively without reading any text. This likely would not have been nearly as successful without the wonderfully distinct icons from the UI/UX team.
 
 Further information, such as descriptions of mechanical systems and how they functioned, were stored in “nested tooltips” that could be displayed by mousing over certain text. These nested tooltips could also contain other nested tooltips, ad infinitum. It worked ideally for systems that had no direct player-facing tooltips, but also needed to be explained mid-gameplay (such as crime, planetary stability, or resources).
 ## Narrative Content
