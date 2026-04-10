@@ -6,9 +6,9 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Action Roguelike Title
-    url: action-roguelike-title
-    desc: In-development action title with time-based mechanics.
+  - title: Action RPG Title
+    url: action-rpg-title
+    desc: Unannounced first-person ARPG title.
   
   - title: Unannounced Sim Title
     url: unannounced-sim-title
@@ -18,20 +18,18 @@ project_entries:
     url: star-trek-infinite
     desc: 4X Strategy title, collaborating with Paradox and Paramount.
 
-  - title: Cancelled RPG
+  - title: Champions Brawl
     url: rpg
-    desc: Worked with a small team on a project.
+    desc: Now delisted live-ops mobile autobattler.
 
 old_project_entries:
   - title: Multiplayer FPS
     url: multiplayer-fps
     desc: A multiplayer FPS with a focus on expressive combat and advanced level traversal.
-    highlight: NEW
 
   - title: Fighting Game Prototype
     url: fighting-game-prototype
     desc: Modular fighting game system made in Godot for supporting unique characters. 
-    highlight: WIP
     
   - title: Thief Level Campaign
     url: thief-level-campaign
